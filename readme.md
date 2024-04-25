@@ -3,11 +3,7 @@ Este desafío es parte del curso de Desafio Latam, Desarrollo de aplicaciones Fu
 Este desafio se realizo con un apoyo entregado en clase, por lo cual el objetivo era corregir los diversos problemas del código, así como completar lo que faltaba para lograr el funcionamiento de este proyecto.
 
 # Descripción del desafío
-La escuela de música “E-Sueño” está motivando a sus estudiantes de canto a presentarse en
-vivo. Se pusieron en contacto con el restaurante del sector para usar su tarima e iniciar un
-calendario de presentaciones. Para conocer y gestionar las canciones que cantarán sus
-estudiantes, la escuela contrató a un desarrollador freelance para la creación de una
-aplicación tipo CRUD.
+La red social “Like Me” está apenas iniciando el proceso de desarrollo, se encuentra estudiando el mercado y analizando la competencia, ha descubierto que el éxito de esta industria se enfoca en los likes de los posts emitidos por los usuarios, por lo que decidió iniciar con el desarrollo de la lógica correspondiente a la creación de posts y a la interacción de likes que este puede tener.
 
 ## Correcciones realizadas:
 - Se separaron los archivos, para mantener la conexión a la bbdd fuera de consultas y el server.
