@@ -20,9 +20,9 @@ aplicación tipo CRUD.
 
 La vista principal es la siguiente: 
 
-| Vista principal | 
-| --- | 
-| ![nueva1](/assets/vista1.png)![nueva2](/assets/vista2.png)| 
+| Vista principal 1 | Vista principal 2 |
+| --- | --- |
+| ![nueva1](/assets/vista1.png)| ![nueva2](/assets/vista2.png) |
 
 Un formulario para agregar: a la persona que hizo el post, la url de una imagen y una descripción. Al enviar esto, aparecera el post como indica la imagen de Vista Principal. Puedes darle like (seleccionar el corazón) y va aumentando la cantidad. 
 
@@ -43,7 +43,7 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 1. Para utilizar este proyecto debes clonar este repositorio en tu máquina, utilizando git.
 
 ```
-git clone git@github.com:jesbell/miBanco.git
+git clone git@github.com:jesbell/likeMe.git
 ```
 
 2. Una vez allí puedes abrir el proyecto donde te sea más comodo. Pero dentro de la carpeta del proyecto deberas realizar las instalación de las dependencias, con el siguiente comando.
@@ -73,7 +73,7 @@ http://localhost:3000
 
 ## Soporte
 
-Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/jesbell/miBanco/issues).
+Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/jesbell/likeMe/issues).
 
 ## Versionado  📌
 
