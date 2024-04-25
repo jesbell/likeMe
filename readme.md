@@ -57,10 +57,10 @@ npm install
 4. El siguiente paso es hacer la conexión a la base de datos. En el archivo dbconfig.js debes agregar tu usuario y contraseña.
 ```
 // inserta tus datos
-const usuario_name = "";
-const pass_usuario = "";
+const nameUser = "";
+const passUser = "";
 ```
-3. Finalmente, debes levantar el servidor (index.js) con el siguiente comando en tu consola
+5. Finalmente, debes levantar el servidor (index.js) con el siguiente comando en tu consola
 ```
 node index.js
 ```
