@@ -48,7 +48,7 @@ git clone git@github.com:jesbell/likeMe.git
 npm install
 ```
 
-3. Debes crear la base de datos correspondiente que esta utilizando este proyecto y sus tablas. Dichas consultas se encuentran en el archivo posts.sql. Desdes realizar las instrucciones indicadas, para generar la base de datos (likeme) y la tabla (posts) que utiliza este proyecto.
+3. Debes crear la base de datos correspondiente que esta utilizando este proyecto y su tabla. Dichas consultas se encuentran en el archivo posts.sql. Desdes realizar las instrucciones indicadas, para generar la base de datos (likeme) y la tabla (posts) que utiliza este proyecto.
 
 4. El siguiente paso es hacer la conexión a la base de datos. En el archivo dbconfig.js debes agregar tu usuario y contraseña.
 ```
