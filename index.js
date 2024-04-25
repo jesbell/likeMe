@@ -28,7 +28,7 @@ app.post("/post", async (req, res) => {
 app.get("/posts", async (req, res) => {
   try {
     const posts = await getPosts();
-    console.log(posts);
+    //console.log(posts);
     res.json(posts);
   } catch (error) {
     console.error("Error en POST /post:", error); 
